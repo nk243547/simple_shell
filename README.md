@@ -1,6 +1,6 @@
 0x16. C - Simple Shell
 
-ALX Group Project by Nelson and Brenda
+ALX Group Project by Nelson Kiptanui and Brenda Kendi
 
 A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Holberton School.
 

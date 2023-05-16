@@ -6,6 +6,7 @@ void help_unsetenv(void);
 void help_history(void);
 
 /**
+* C-Simple Shell - Group Project by Brenda and Nelson.
 * help_env - Displays information on the shellby builtin command 'env'.
 */
 void help_env(void)

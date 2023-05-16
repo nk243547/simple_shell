@@ -5,6 +5,7 @@ void set_alias(char *var_name, char *value);
 void print_alias(alias_t *alias);
 
 /**
+* C-Simple Shell - Group Project by Brenda and Nelson
 * shellby_alias - Builtin command that either prints all aliases, specific
 * aliases, or sets an alias.
 * @args: An array of arguments.

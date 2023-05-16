@@ -6,6 +6,7 @@ list_t *add_node_end(list_t **head, char *dir);
 void free_list(list_t *head);
 
 /**
+* C-Simple Shell - Group Project by Brenda and Nelson.
 * add_alias_end - Adds a node to the end of a alias_t linked list.
 * @head: A pointer to the head of the list_t list.
 * @name: The name of the new alias to be added.

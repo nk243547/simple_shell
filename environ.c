@@ -5,6 +5,7 @@ void free_env(void);
 char **_getenv(const char *var);
 
 /**
+* C-Simple Shell - Group Project by Brenda and Nelson.
 * _copyenv - Creates a copy of the environment.
 *
 * Return: If an error occurs - NULL.

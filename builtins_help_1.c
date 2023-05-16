@@ -7,6 +7,7 @@ void help_exit(void);
 void help_help(void);
 
 /**
+* C-Simple Shell - Group Project by Brenda and Nelson.
 * help_all - Displays all possible builtin shellby commands.
 */
 void help_all(void)

@@ -6,6 +6,7 @@ int _strcmp(char *s1, char *s2);
 int _strncmp(const char *s1, const char *s2, size_t n);
 
 /**
+* C-Simple Shell - Group project by Brenda and Nelson.
 * _strchr - Locates a character in a string.
 * @s: The string to be searched.
 * @c: The character to be located.

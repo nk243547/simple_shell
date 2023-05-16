@@ -6,6 +6,7 @@ char *error_2_exit(char **args);
 char *error_2_cd(char **args);
 char *error_2_syntax(char **args);
 /**
+* C-Simple Shell - Group Project by Brenda and Nelson.
 * error_env - Creates an error message for shellby_env errors.
 * @args: An array of arguments passed to the command.
 *

@@ -4,6 +4,7 @@ char *fill_path_dir(char *path);
 list_t *get_path_dir(char *path);
 
 /**
+* C-Simple Shell - Group Project by Brenda and Nelson.
 * get_location - Locates a command in the PATH.
 * @command: The command to locate.
 *

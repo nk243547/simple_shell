@@ -37,7 +37,7 @@ return (NULL);
 int _strspn(char *s, char *accept)
 {
 int bytes = 0;
-nt index;
+int index;
 
 while (*s)
 {

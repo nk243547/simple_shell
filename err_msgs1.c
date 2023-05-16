@@ -151,7 +151,7 @@ hist_str = _itoa(hist);
 if (!hist_str)
 return (NULL);
 
-en = _strlen(name) + _strlen(hist_str) + _strlen(args[0]) + 33;
+len = _strlen(name) + _strlen(hist_str) + _strlen(args[0]) + 33;
 error = malloc(sizeof(char) * (len + 1));
 if (!error)
 {

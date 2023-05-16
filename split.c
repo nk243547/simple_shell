@@ -5,6 +5,7 @@ int count_tokens(char *str, char *delim);
 char **_strtok(char *line, char *delim);
 
 /**
+C-Simple Shell - Group Project by Brenda and Nelson.
 * token_len - Locates the delimiter index marking the end
 * of the first token contained within a string.
 * @str: The string to be searched.

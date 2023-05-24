@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Alx Group Project by Brenda Kendi and Nelson.
 * find_command - finds command to execute in path routes.
 *
 * @command: first position of getline input.

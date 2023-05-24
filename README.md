@@ -1,6 +1,6 @@
 0x16. C - Simple Shell
 
-ALX Group Project by Nelson Kiptanui and Brenda Kendi
+ALX Group Project by Nelson Kiptanui and Brenda Kendi Njeru
 
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:

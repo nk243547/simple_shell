@@ -1,5 +1,6 @@
 #include "shell.h"
 /**
+* C Simple Shell - Alx Group Project by Brenda Kendi and Nelson.
 * _strcmpdir - compares strings to find dir.
 *
 * @s1: string.

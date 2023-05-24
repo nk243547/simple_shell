@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Alx Group Project by Brenda Kendi and Nelson.
 * prompt - call prompt from another function (prompt)
 *
 **/

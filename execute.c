@@ -1,5 +1,6 @@
 #include "shell.h"
 /**
+* C Simple Shell - Alx Group Project by Brenda Kendi and Nelson.
 * execute_proc - similar to puts in C
 * @cmd: a pointer the integer we want to set to 402
 *

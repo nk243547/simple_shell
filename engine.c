@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Alx Group Project by Brenda Kendi and Nelson.
 * lookforslash - identifies if first char is a slash.
 * @cmd: first string
 * Return: 1 if yes 0 if no.

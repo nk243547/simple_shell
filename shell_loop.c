@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * hsh - main shell loop
 * @info: the parameter & return info struct
 * @av: the argument vector from main()

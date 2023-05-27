@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * **strtow - splits a string into words. Repeat delimiters are ignored
 * @str: the input string
 * @d: the delimeter string

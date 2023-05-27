@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * interactive - returns true if shell is interactive mode
 * @info: struct address
 *

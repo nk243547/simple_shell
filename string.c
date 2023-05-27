@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * _strlen - returns the length of a string
 * @s: the string whose length to check
 *

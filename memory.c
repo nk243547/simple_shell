@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * bfree - frees a pointer and NULLs the address
 * @ptr: address of the pointer to free
 *

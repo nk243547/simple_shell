@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * input_buf - buffers chained commands
 * @info: parameter struct
 * @buf: address of buffer

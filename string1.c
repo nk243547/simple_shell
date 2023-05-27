@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * _strcpy - copies a string
 * @dest: the destination
 * @src: the source

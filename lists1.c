@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * list_len - determines length of linked list
 * @h: pointer to first node
 *

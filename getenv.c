@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * get_environ - returns the string array copy of our environ
 * @info: Structure containing potential arguments. Used to maintain
 *          constant function prototype.

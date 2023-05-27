@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 * clear_info - initializes info_t struct
 * @info: struct address
 */

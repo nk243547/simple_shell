@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* C Simple Shell - Group Project by Brenda and Nelson.
 *_eputs - prints an input string
 * @str: the string to be printed
 *

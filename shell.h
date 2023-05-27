@@ -1,3 +1,4 @@
+/* C Simple Shell - Group Project by Brenda and Nelson.*/
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
